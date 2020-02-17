@@ -1,2 +1,2 @@
-# Integrations_in_Python
-Enjoying Integrations with Python
+# Integrals_in_Python
+Enjoying Integrals with Python
